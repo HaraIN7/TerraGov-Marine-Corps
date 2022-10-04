@@ -7,7 +7,7 @@
 
 /datum/armor
 	datum_flags = DF_USE_TAG
-	var/melee = 0
+	var/melee = 1
 	var/bullet = 0
 	var/laser = 0
 	var/energy = 0
